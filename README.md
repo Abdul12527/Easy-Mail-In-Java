@@ -53,8 +53,4 @@ License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Author:
-- [Your Name]
-
-Replace '[Your Name]' with your actual name or organization name.
-
-Feel free to further customize this documentation to meet your specific project needs.
+- Arjunagi A Rehman Moulaali
