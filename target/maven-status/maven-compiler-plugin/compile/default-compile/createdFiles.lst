@@ -1,0 +1,6 @@
+Zander\mail\Main.class
+Zander\mail\SendMail.class
+Zander\mail\MyAuthenticator.class
+Zander\mail\ReadFile.class
+Zander\mail\Credentials.class
+Zander\mail\MailHandler.class
