@@ -18,8 +18,6 @@ Getting Started:
    - Open the project in your preferred Java development environment.
 
 3. Configure Email Credentials:
-   - Open the Credentials.java file.
-   - Set your email 'to', 'from', and 'pass' values using the provided setter methods.
    - You can make SendMail class object and play with fuctionalities
    - To-"mai_id of Reciver" From-"Mail_id of sender" Password is must while creating the SendMail class
    - if you don't want to put password in java file you can use ReadFile class and get password from other file also (note you need to provide the absalute path as well as seperator might vary according the platform)
